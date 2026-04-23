@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": "1774410631128",
+      "email": "sankalpsharma277@gmail.com",
+      "passwordHash": "$2a$10$WGoDXhKc.0wjM5TLZI3xL.qVueDbsrccObDK7Jflu37B9kW5G0hza",
+      "data": {
+        "budget": 5011,
+        "expenses": [
+          {
+            "name": "travel",
+            "amount": 2000,
+            "category": "Transport",
+            "date": "2026-03-25T03:50:54.881Z"
+          },
+          {
+            "name": "headphone",
+            "amount": 1000,
+            "category": "Bills",
+            "date": "2026-03-25T03:51:18.241Z"
+          },
+          {
+            "name": "watch",
+            "amount": 200,
+            "category": "Other",
+            "date": "2026-03-25T03:52:15.976Z"
+          }
+        ],
+        "goals": [],
+        "settings": {
+          "username": "sankalpsharma277",
+          "currency": "₹"
+        }
+      }
+    },
+    {
+      "id": "1774411466745",
+      "email": "sanchit@gmail.com",
+      "passwordHash": "$2a$10$uNtxKOF.6Po9AmaubZe/PO1Z5557Czi2FLQdD12pXDXMTJFdR4v2i",
+      "data": {
+        "budget": 1234567,
+        "expenses": [],
+        "goals": [],
+        "settings": {
+          "username": "sanchit",
+          "currency": "₹"
+        }
+      }
+    },
+    {
+      "id": "1774414689414",
+      "email": "xyz@gmail.com",
+      "passwordHash": "$2a$10$zPCx9sh6a1sGjP6S1/LTMOzwMtv1E0g79OsWOXflzHhwcyI6e.F0a",
+      "data": {
+        "budget": 2000,
+        "expenses": [
+          {
+            "name": "dfgh",
+            "amount": 200,
+            "category": "Entertainment",
+            "date": "2026-03-25T09:46:17.223Z"
+          },
+          {
+            "name": "dhurandhar",
+            "amount": 600,
+            "category": "Entertainment",
+            "date": "2026-03-25T09:49:19.102Z"
+          }
+        ],
+        "goals": [],
+        "settings": {
+          "username": "xyz",
+          "currency": "₹"
+        }
+      }
+    },
+    {
+      "id": "1774430380598",
+      "email": "kite@gmail.com",
+      "passwordHash": "$2a$10$aic8sSUvPQFm/0xIgJpqzOobExlVUXTxuGczbbUcaJgvOhTRQ0RcC",
+      "data": {
+        "budget": 455435,
+        "expenses": [
+          {
+            "name": "phone",
+            "amount": 1234,
+            "category": "Entertainment",
+            "date": "2026-03-25T09:23:52.787Z"
+          }
+        ],
+        "goals": [],
+        "settings": {
+          "username": "kite",
+          "currency": "₹"
+        }
+      }
+    },
+    {
+      "id": "1776964651594",
+      "email": "abc@gmail.com",
+      "passwordHash": "$2a$10$gh2MRR0Pm8Rw/3HBKfNWWeIlc04uTSZBqONwYDnwhxMuvxBcWRWGy",
+      "data": {
+        "budget": 100000,
+        "expenses": [
+          {
+            "name": "rent",
+            "amount": 14000,
+            "category": "Other",
+            "date": "2026-04-23T17:18:19.170Z"
+          },
+          {
+            "name": "tt",
+            "amount": 2000,
+            "category": "Transport",
+            "date": "2026-04-23T17:33:28.339Z"
+          },
+          {
+            "name": "shop",
+            "amount": 5000,
+            "category": "Shopping",
+            "date": "2026-04-23T17:37:22.424Z"
+          },
+          {
+            "name": "Food",
+            "amount": 10000,
+            "category": "Food",
+            "date": "2026-04-23T17:38:01.846Z"
+          },
+          {
+            "name": "Bill",
+            "amount": 3000,
+            "category": "Bills",
+            "date": "2026-04-23T17:39:34.440Z"
+          }
+        ],
+        "goals": [
+          {
+            "name": "Savings",
+            "amount": 500000,
+            "saved": 10000
+          }
+        ],
+        "settings": {
+          "username": "PIYUSH",
+          "currency": "₹"
+        }
+      }
+    },
+    {
+      "id": "1776964719072",
+      "email": "test@example.com",
+      "passwordHash": "$2a$10$dNmyxL.oA16vAs08FtNi4O1aC0iq1ZaUNVz1uM7oIDG0oF9qIrs0.",
+      "data": {
+        "budget": 0,
+        "expenses": [],
+        "goals": [],
+        "settings": {
+          "username": "test",
+          "currency": "₹"
+        }
+      }
+    }
+  ]
+}
